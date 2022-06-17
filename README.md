@@ -32,3 +32,11 @@ Here are some ideas to get you started:
 ようこそ！My ![Visitor Count](https://profile-counter.glitch.me/Yuhan0524/count.svg) Visitor >.<
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuhan0524&layout=compact)](https://github.com/Yuhan0524/github-readme-stats)
+
+「鸟儿是为何飞翔于天空之中？
+
+就像即使没有飞鸟，天空也依然存在着一样。
+
+即使没有人类的故事，世界的存在也依然颠扑不破。
+
+即使电影没有故事，它也应当已然存在于那里了。」
