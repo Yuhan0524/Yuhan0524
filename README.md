@@ -6,7 +6,7 @@ May apply for PhD of ML/CS/Applied Maths/DS in the future
 
 Doing TDA relevant research now
 
-About my Odyssey Programme @NTU, please find more details at repository - TDA-Facial-Emotion-Recognition
+About my Odyssey Programme @NTU, please find more details at repository - TDA-Facial-Emotion-Recognition - https://github.com/Yuhan0524/TDA-Facial-Emotion-Recognition
 
 👯 Contact me through 
 
