@@ -6,6 +6,8 @@ May apply for PhD of ML/CS/Applied Maths/DS in the future
 
 Doing TDA relevant research now
 
+About my Odyssey Programme @NTU, please find more details at repository - TDA-Facial-Emotion-Recognition
+
 👯 Contact me through 
 
 Email 2767703031@qq.com
