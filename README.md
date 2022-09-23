@@ -2,9 +2,9 @@
 
 🌱 I'm Yuhan and I'm currently studying Mathematical Sciences in Nanyang Technological University @2025er
 
-May apply for PhD of ML/CS/Applied Maths/DS in the future
+May apply for PhD of ML/CS/Applied Maths/CV in the future
 
-Doing TDA relevant research now
+Doing IMAGE AESTHETIC ASSESSMENT relevant research currently
 
 About my Odyssey Programme @NTU, please find more details at repository - TDA-Facial-Emotion-Recognition - https://github.com/Yuhan0524/TDA_Facial_Expression_Recognition
 
