@@ -8,6 +8,8 @@ Doing IMAGE AESTHETIC ASSESSMENT relevant research currently
 
 About my Odyssey Programme @NTU, please find more details at repository - TDA-Facial-Emotion-Recognition - https://github.com/Yuhan0524/TDA_Facial_Expression_Recognition
 
+My Webpage https://yuhan0524.wordpress.com/
+
 👯 Contact me through 
 
 Email 2767703031@qq.com
