@@ -1,22 +1,12 @@
 ### "Hello World" 👋
 
-🌱 I'm Yuhan and I'm currently studying Mathematical Sciences in Nanyang Technological University @2025er
-
-May apply for PhD of ML/CS/Applied Maths/Bioinfo in the future
-
-Currently:
-
-\# Doing Bioinfo-related part-time intern under Astar GIS Singapore
-
-\# Doing IoT Sandbox creation intern under NTU SPIRIT CENTRE
-
-About my Odyssey Programme @NTU, please find more details at repository - TDA-Facial-Emotion-Recognition - https://github.com/Yuhan0524/TDA_Facial_Expression_Recognition
-
-My Webpage https://yuhan0524.wordpress.com/
+🌱 I'm Yuhan, a PhD Yr1 student under Prof Xia Kelin @Nanyang Technological University
 
 👯 Contact me through 
 
-Email 2767703031@qq.com
+Email yuhanpeng301@gmail.com
+
+LinkedIn https://www.linkedin.com/in/yuhan0524/
 
 Ins @ppp0524
 
